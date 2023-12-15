@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(55, 55, 55);
+  font-family: 'Nunito', sans-serif;
+}
+
+.contenedor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px 10px 20px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 20px 10px 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+}
+
+.subtext-container {
+  width: 100%;
+  padding: 10px;
+  padding: 40px 20px 20px 20px;
+  text-align: center;
+  color: #FED141;
+  font-size: 120%;
+}
+
+iframe {
+  border-radius: 5px;
+}
